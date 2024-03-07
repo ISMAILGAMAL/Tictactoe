@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Ai.cpp
+  tictactoe.cpp
+D:\CourseStuff\SP project\tictactoe\tictactoe\tictactoe.cpp(10,75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CourseStuff\SP project\tictactoe\tictactoe\tictactoe.cpp(11,41): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CourseStuff\SP project\tictactoe\tictactoe\tictactoe.cpp(38,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CourseStuff\SP project\tictactoe\tictactoe\tictactoe.cpp(45,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CourseStuff\SP project\tictactoe\tictactoe\tictactoe.cpp(61,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CourseStuff\SP project\tictactoe\tictactoe\tictactoe.cpp(61,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CourseStuff\SP project\tictactoe\tictactoe\tictactoe.cpp(116,43): warning C4805: '==': unsafe mix of type 'int' and type 'const bool' in operation
+  Generating Code...
+  tictactoe.vcxproj -> D:\CourseStuff\SP project\tictactoe\tictactoe.exe
